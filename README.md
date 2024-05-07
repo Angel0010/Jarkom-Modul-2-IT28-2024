@@ -32,6 +32,21 @@ Pastikan domain-domain tersebut dapat diakses oleh seluruh komputer (client) yan
 ## No.6
 Beberapa daerah memiliki keterbatasan yang menyebabkan hanya dapat mengakses domain secara langsung melalui alamat IP domain tersebut. Karena daerah tersebut tidak diketahui secara spesifik, pastikan semua komputer (client) dapat mengakses domain redzone.xxxx.com melalui alamat IP Severny (Notes : menggunakan pointer record)
 
+- Menambahkan script .arpa pada named.config.local dengan membuka `nano /etc/bind/jarkom28/named.config.local`
+  
+  ![named config](https://github.com/Angel0010/Jarkom-Modul-2-IT28-2024/assets/131789727/256bb037-9385-4eaf-9dd5-13a5c01c7c08)
+
+- Membuat file script baru untuk menjalankan `.arpa`
+
+  ![bash no 6](https://github.com/Angel0010/Jarkom-Modul-2-IT28-2024/assets/131789727/46b003dd-5682-4e72-9134-9247838e55c3)
+
+- Output yang dihasilkan setelah melakukan testing
+  ![output](https://github.com/Angel0010/Jarkom-Modul-2-IT28-2024/assets/131789727/8143781d-f1c5-4188-80cf-4718b902d167)
+
+### Kendala
+Tidak dapat melakukan testing
+  
+
 ## No.7
 Akhir-akhir ini seringkali terjadi serangan siber ke DNS Server Utama, sebagai tindakan antisipasi kamu diperintahkan untuk membuat DNS Slave di Georgopol untuk semua domain yang sudah dibuat sebelumnya
 
