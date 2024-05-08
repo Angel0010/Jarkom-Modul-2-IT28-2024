@@ -149,5 +149,5 @@ Karena probset sudah kehabisan ide masuk ke salah satu worker buatkan akses dire
 ## No.20
 Worker tersebut harus dapat di akses dengan tamat.xxx.com dengan alias www.tamat.xxx.com
 
-## No 9-20 menyerah mas mba :)
+## No 9-20 menyerah mas :)
 ![image](https://github.com/Angel0010/Jarkom-Modul-2-IT28-2024/assets/131789727/273f906c-cb99-4106-851d-943247bc16fb)
