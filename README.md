@@ -26,8 +26,17 @@ Para pasukan juga perlu mengetahui mana titik yang sedang di bombardir artileri,
 ## No.4
 Markas pusat meminta dibuatnya domain khusus untuk menaruh informasi persenjataan dan suplai yang tersebar. Informasi persenjataan dan suplai tersebut mengarah ke Mylta dan domain yang ingin digunakan adalah loot.xxxx.com dengan alias www.loot.xxxx.com
 
+### Hasil Pengerjaan no 2-4
+
+-Script yang dibuat adalah pochinki.sh
+![image](https://github.com/Angel0010/Jarkom-Modul-2-IT28-2024/assets/131789727/1231ccad-eb85-44c1-98c0-2d37369a329c)
+
+![image](https://github.com/Angel0010/Jarkom-Modul-2-IT28-2024/assets/131789727/4e421901-c218-428f-b6ed-d90941c4e99f)
+
 ## No.5
 Pastikan domain-domain tersebut dapat diakses oleh seluruh komputer (client) yang berada di Erangel
+
+### Hasil testing semua domain yang dibuat pada no 2-4
 
 ## No.6
 Beberapa daerah memiliki keterbatasan yang menyebabkan hanya dapat mengakses domain secara langsung melalui alamat IP domain tersebut. Karena daerah tersebut tidak diketahui secara spesifik, pastikan semua komputer (client) dapat mengakses domain redzone.xxxx.com melalui alamat IP Severny (Notes : menggunakan pointer record)
