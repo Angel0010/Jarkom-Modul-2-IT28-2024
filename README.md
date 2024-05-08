@@ -7,15 +7,16 @@
 | Angella Christie | 5027221047 | 
 | Ahmad Fauzan Daniswara | 5027221057 | 
 
-## Topologi yang digunakan 
-
-![image](https://github.com/Angel0010/Jarkom-Modul-2-IT28-2024/assets/131789727/7b6bb1d5-3ccb-426f-9a52-0e4e09ab2de5)
-
 ## No.1
 Untuk membantu pertempuran di Erangel, kamu ditugaskan untuk membuat jaringan komputer yang akan digunakan sebagai alat komunikasi. Sesuaikan rancangan Topologi dengan rancangan dan pembagian yang berada di link yang telah disediakan, dengan ketentuan nodenya sebagai berikut :
 - DNS Master akan diberi nama Pochinki, sesuai dengan kota tempat dibuatnya server tersebut
 - Karena ada kemungkinan musuh akan mencoba menyerang Server Utama, maka buatlah DNS Slave Georgopol yang mengarah ke Pochinki
 - Markas pusat juga meminta dibuatkan tiga Web Server yaitu Severny, Stalber, dan Lipovka. Sedangkan Mylta akan bertindak sebagai Load Balancer untuk server-server tersebut
+
+### Hasil Pengerjaan 
+- Topologi yang digunakan 
+![image](https://github.com/Angel0010/Jarkom-Modul-2-IT28-2024/assets/131789727/7b6bb1d5-3ccb-426f-9a52-0e4e09ab2de5)
+
 
 ## No. 2
 Karena para pasukan membutuhkan koordinasi untuk mengambil airdrop, maka buatlah sebuah domain yang mengarah ke Stalber dengan alamat airdrop.xxxx.com dengan alias www.airdrop.xxxx.com dimana xxxx merupakan kode kelompok. Contoh : airdrop.it01.com
